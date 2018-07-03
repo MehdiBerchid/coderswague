@@ -120,7 +120,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="IxE-aZ-uDP" customClass="Products" customModule="codeswague" customModuleProvider="target">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="IxE-aZ-uDP" customClass="ProductsCell" customModule="codeswague" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="178" height="268"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
@@ -165,9 +165,9 @@
                                             <constraint firstAttribute="trailing" secondItem="xJL-Ff-gxV" secondAttribute="trailing" id="ms6-Qs-ZyG"/>
                                         </constraints>
                                         <connections>
-                                            <outlet property="PoructsPrice" destination="pDj-yH-8IS" id="J4R-zg-pLN"/>
-                                            <outlet property="ProductImage" destination="xJL-Ff-gxV" id="WyJ-Dm-mSh"/>
-                                            <outlet property="ProductsName" destination="enj-JI-XQ5" id="p7a-Te-5md"/>
+                                            <outlet property="poructsPrice" destination="pDj-yH-8IS" id="FQD-UP-tl1"/>
+                                            <outlet property="productImage" destination="xJL-Ff-gxV" id="3CI-bA-Sj5"/>
+                                            <outlet property="productsName" destination="enj-JI-XQ5" id="UD3-Vi-gfy"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>

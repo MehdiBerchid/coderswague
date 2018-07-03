@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Products: UICollectionViewCell {
+class ProductsCell: UICollectionViewCell {
     @IBOutlet weak var productImage : UIImageView!
     @IBOutlet weak var productsName : UILabel!
     @IBOutlet weak var poructsPrice : UILabel!
