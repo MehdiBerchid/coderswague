@@ -15,6 +15,7 @@
 		47902A0620EAC6EE005D4F23 /* CategoriyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47902A0520EAC6EE005D4F23 /* CategoriyCell.swift */; };
 		47902A0820EB9E47005D4F23 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47902A0720EB9E47005D4F23 /* Category.swift */; };
 		47902A0B20EBA68B005D4F23 /* Dataservice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47902A0A20EBA68B005D4F23 /* Dataservice.swift */; };
+		47902A0D20EC1511005D4F23 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47902A0C20EC1511005D4F23 /* Products.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		47902A0520EAC6EE005D4F23 /* CategoriyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriyCell.swift; sourceTree = "<group>"; };
 		47902A0720EB9E47005D4F23 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		47902A0A20EBA68B005D4F23 /* Dataservice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dataservice.swift; sourceTree = "<group>"; };
+		47902A0C20EC1511005D4F23 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				47902A0520EAC6EE005D4F23 /* CategoriyCell.swift */,
+				47902A0C20EC1511005D4F23 /* Products.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				479029F320EAB347005D4F23 /* CategoryVC.swift in Sources */,
 				47902A0820EB9E47005D4F23 /* Category.swift in Sources */,
 				47902A0620EAC6EE005D4F23 /* CategoriyCell.swift in Sources */,
+				47902A0D20EC1511005D4F23 /* Products.swift in Sources */,
 				47902A0B20EBA68B005D4F23 /* Dataservice.swift in Sources */,
 				479029F120EAB347005D4F23 /* AppDelegate.swift in Sources */,
 			);
